@@ -1,3 +1,4 @@
+[Project code available on request: mail at faizabid32@gmail.com]
 # Bird Deterrent System for Delivery Drones 
 
 This repository contains the design, components, and logic for a **lightweight, AI-driven bird deterrent system** for autonomous delivery drones. The system proactively detects and repels birds using a combination of **computer vision, real-time onboard AI, and multi-modal deterrents** (audio, visual, motion). It is designed for drones operating in **challenging environments**, such as hilly or mountainous regions where bird attacks can threaten safe flight.
